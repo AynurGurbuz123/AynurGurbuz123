@@ -29,9 +29,9 @@
 <div align="center">
     
 
-</div>
-  ![snake gif](https://github.com/AynurGurbuz123/AynurGurbuz123/blob/output/github-snake-dark.svg)
 
+  ![snake gif](https://github.com/AynurGurbuz123/AynurGurbuz123/blob/output/github-snake-dark.svg)
+</div>
 <!-- Visit Counter -->
 <div align="center">
   
