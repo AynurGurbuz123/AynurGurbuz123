@@ -39,3 +39,6 @@
   
   [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
+
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
